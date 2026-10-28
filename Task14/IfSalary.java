@@ -1,6 +1,6 @@
 class IfSalary{
 	public static void main(String args[]){
-		int employeeSalary = 50000;
+		double employeeSalary = 50000;
 		double tax;
 		double netSalary;
 		
